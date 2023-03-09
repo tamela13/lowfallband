@@ -1,0 +1,135 @@
+
+
+
+/* HTML and Body styles */
+
+html {
+   background: rgb(38, 38, 38);
+   font-family: Fantasy, Helvetica, Verdana, Geneva, sans-serif;
+   
+}
+
+#lf {font-family: Papyrus;
+	
+}
+
+header {
+   background: linear-gradient(to right, rgb(255, 51, 0) 20%, rgb(255, 51, 0));
+        
+    font-family: 'Fantasy'
+	Papyrus;
+	font-size: 2.5em;
+	text-align: center;
+    color: #00001a;
+    text-shadow: 2px 3px 0 black;
+	margin-top: 20px;
+	border-width: thick;
+	border-style: solid;
+	border-color: #000000;
+	
+}
+
+body {
+	display: block;
+   background-color: rgb(255, 51, 0);
+   box-shadow: rgb(255, 0, 0) 10px 0px 40px, rgb(255, 0, 0) -10px 0px 40px;
+   border-left: 1px solid rgb(255, 51, 0);
+   border-right: 1px solid rgb(255, 51, 0);
+   min-height: 100%;   
+   margin: 0px auto;
+   min-width: 520px;
+   max-width: 1324px;   
+   width: 100%;
+}
+
+#about {
+  font-family:Papyrus;
+}
+
+#bp { max-height: 80%;
+      max-width: 80%;
+      margin-left: 100px;
+	
+}
+
+.menu {
+	font-family: 'Fantasy'
+	Papyrus;
+	text-align: center;
+	font-size: 1.5em;
+	color: black;
+	
+}
+
+
+
+main {
+	font-family: Papyrus;
+	border-width: thick;
+	border-style: solid;
+	border-color: #000000;
+	text-align: center;
+	font-size: 1.75em;
+	
+	
+}
+
+
+
+#shows {
+	font-family:Papyrus;
+	text-align: center;
+	font-size: 1.75em;
+	border-width: thick;
+	border-style: solid;
+	border-color: #000000;
+	
+	
+	
+	
+		
+}
+section {
+  display: flex;
+}
+
+section#members {
+	font-family:Papyrus;
+	font-size: 2em;
+	text-align: center;
+	
+	border-width: thick;
+	border-style: solid;
+	border-color: #000000;
+	padding: 15px 15px 15px 15px;
+}
+
+
+a:link {
+	color: #000000;
+	
+	
+}
+
+a:visited {
+    color: black;
+	
+}
+
+
+
+footer {
+	text-align: center;
+	
+}
+
+
+
+   
+
+
+
+
+
+
+
